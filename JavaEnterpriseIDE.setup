@@ -7,8 +7,8 @@
     xmlns:setup.p2="http://www.eclipse.org/oomph/setup/p2/1.0"
     xmlns:workbench="http://www.eclipse.org/oomph/setup/workbench/1.0"
     xsi:schemaLocation="http://www.eclipse.org/oomph/setup/workbench/1.0 http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/models/Workbench.ecore"
-    name="java.enterprise.ide"
-    label="Java Enterprise IDE">
+    name="cn.devit.eclipse.jee"
+    label="Devit J2EE IDE">
   <annotation
       source="http://www.eclipse.org/oomph/setup/BrandingInfo">
     <detail

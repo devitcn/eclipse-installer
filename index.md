@@ -19,8 +19,9 @@
 
 ## How To
 
-1. Open Eclipse Installer
-2. Switch to advance mode
+1. Run [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer) 
+2. Switch to advance mode (top right menu)
 3. Press "+"
 4. Paste URL of [JavaEnterpriseIDE.setup](JavaEnterpriseIDE.setup "install") into textbox
 5. Press "ok"
+6. Select "Java Enterprise IDE" and next
